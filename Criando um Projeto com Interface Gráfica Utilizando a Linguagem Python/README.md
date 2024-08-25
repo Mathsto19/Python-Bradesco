@@ -30,17 +30,37 @@ Este repositório contém os seguintes arquivos, criados com base nos ensinament
 
 4. [**Funcionario.py**](./Funcionario.py): Implementa a classe `Funcionario`, com foco em atributos e métodos relacionados a um funcionário.
 
-5. [**Módulo 2 - 0.py**](./Módulo%202%20-%200.py): Arquivo que cobre os conceitos do Módulo 2, Parte 0.
+5. [**Calculadora.py**](./Calculadora.py): Código fonte da calculadora desenvolvida, demonstrando a aplicação dos conceitos do curso.
 
-6. [**Módulo 2 - 1.py**](./Módulo%202%20-%201.py): Arquivo que cobre os conceitos do Módulo 2, Parte 1.
+6. [**Calculadora - Básica.py**](./Calculadora%20-%20B%C3%A1sica.py): Versão básica da calculadora com funcionalidades essenciais.
 
-7. [**Módulo 2 - 2.py**](./Módulo%202%20-%202.py): Arquivo que cobre os conceitos do Módulo 2, Parte 2.
+7. [**Módulo 2 - 0.py**](./Módulo%202%20-%200.py): Arquivo que cobre os conceitos do Módulo 2, Parte 0.
 
-8. [**Teste_Area.py**](./Teste_Area.py): Arquivo de teste para a classe `Area`, garantindo que todos os métodos funcionem conforme o esperado.
+8. [**Módulo 2 - 1.py**](./Módulo%202%20-%201.py): Arquivo que cobre os conceitos do Módulo 2, Parte 1.
 
-9. [**Teste_Funcionalidades.py**](./Teste_Funcionalidades.py): Arquivo de teste para a classe `Funcionalidades`, verificando a implementação de suas funcionalidades.
+9. [**Módulo 2 - 2.py**](./Módulo%202%20-%202.py): Arquivo que cobre os conceitos do Módulo 2, Parte 2.
 
-10. [**Teste_Funcionario.py**](./Teste_Funcionario.py): Arquivo de teste para a classe `Funcionario`, validando a implementação dos atributos e métodos da classe.
+10. [**Módulo 3 - 0.py**](./Módulo%203%20-%200.py): Arquivo que cobre os conceitos do Módulo 3, Parte 0.
+
+11. [**Módulo 3 - 1.py**](./Módulo%203%20-%201.py): Arquivo que cobre os conceitos do Módulo 3, Parte 1.
+
+12. [**Módulo 3 - 2.py**](./Módulo%203%20-%202.py): Arquivo que cobre os conceitos do Módulo 3, Parte 2.
+
+13. [**Módulo 3 - 3.py**](./Módulo%203%20-%203.py): Arquivo que cobre os conceitos do Módulo 3, Parte 3.
+
+14. [**Módulo 3 - 4.py**](./Módulo%203%20-%204.py): Arquivo que cobre os conceitos do Módulo 3, Parte 4.
+
+15. [**Teste_Area.py**](./Teste_Area.py): Arquivo de teste para a classe `Area`, garantindo que todos os métodos funcionem conforme o esperado.
+
+16. [**Teste_Funcionalidades.py**](./Teste_Funcionalidades.py): Arquivo de teste para a classe `Funcionalidades`, verificando a implementação de suas funcionalidades.
+
+17. [**Teste_Funcionario.py**](./Teste_Funcionario.py): Arquivo de teste para a classe `Funcionario`, validando a implementação dos atributos e métodos da classe.
+
+18. [**database**](./database): Arquivo de banco de dados utilizado nos exercícios e demonstrações.
+
+19. [**main.py**](./main.py): Arquivo principal que integra e executa o projeto, demonstrando a aplicação completa desenvolvida.
+
+20. [**my.kv**](./my.kv): Arquivo de especificação Kivy usado para definir a interface gráfica da aplicação.
 
 ## Como Executar
 
@@ -51,8 +71,11 @@ Este repositório contém os seguintes arquivos, criados com base nos ensinament
 
 2. **Instale o PyCharm** ou outra IDE de sua preferência.
 3. **Clone este repositório** para sua máquina local.
+   ```bash
+   git clone https://github.com/seu-usuario/seu-repositorio.git
+   ```
 4. **Abra o projeto** na IDE.
-5. **Execute os arquivos de teste** para verificar as implementações e funcionalidades.
+5. **Execute o arquivo `main.py`** para iniciar a aplicação e verificar a integração dos componentes.
 
 ## Contribuição
 
