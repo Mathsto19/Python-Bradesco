@@ -22,11 +22,12 @@ Neste curso, apresentamos conceitos mais avançados de programação, incluindo 
 
 Este repositório contém três arquivos principais, onde aplicamos os ensinamentos do curso:
 
-1. **cliente.py**: Contém a classe `Cliente`, que representa um cliente em um sistema bancário. Essa classe inclui atributos e métodos para manipular as informações dos clientes.
+1. [**cliente.py**](./cliente.py): Contém a classe `Cliente`, que representa um cliente em um sistema bancário. Essa classe inclui atributos e métodos para manipular as informações dos clientes.
 
-2. **conta.py**: Inclui a classe `Conta`, que representa uma conta bancária. Esta classe demonstra o uso de encapsulamento de dados e contém métodos para operações bancárias, como depósito e saque.
+2. [**conta.py**](./conta.py): Inclui a classe `Conta`, que representa uma conta bancária. Esta classe demonstra o uso de encapsulamento de dados e contém métodos para operações bancárias, como depósito e saque.
 
-3. **main.py**: O arquivo principal do projeto, onde as classes `Cliente` e `Conta` são instanciadas e utilizadas. Este arquivo demonstra a interação entre as classes e como aplicar os conceitos de orientação a objetos ensinados no curso.
+3. [**main.py**](./main.py): O arquivo principal do projeto, onde as classes `Cliente` e `Conta` são instanciadas e utilizadas. Este arquivo demonstra a interação entre as classes e como aplicar os conceitos de orientação a objetos ensinados no curso.
+
 
 ## Como Executar
 
