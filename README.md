@@ -12,13 +12,13 @@ O objetivo é articular teoria e prática do raciocínio lógico através da Lin
 
 Este repositório está organizado em pastas, cada uma correspondendo a um curso da trilha:
 
-### 1. [Introdução à Programação Orientada a Objetos (POO) (5h)](./Introdução à Programação Orientada a Objetos (POO))
+### 1. [Introdução à Programação Orientada a Objetos (POO) (5h)](./Introdução%20à%20Programação%20Orientada%20a%20Objetos%20(POO)/)
 
 - **Módulo 1** – Programação estruturada versus orientada a objetos
 - **Módulo 2** – Os quatro pilares da programação orientada a objetos
 - **Módulo 3** – Linguagens orientadas a objeto
 
-### 2. [Linguagem de Programação Python – Básico (18h)](./Linguagem de Programação Python – Básico)
+### 2. [Linguagem de Programação Python – Básico (18h)](./Linguagem%20de%20Programação%20Python%20–%20Básico/)
 
 - **Módulo 1** – Introdução à Lógica de Programação
 - **Módulo 2** – Introdução à Linguagem de Programação Python
@@ -27,20 +27,20 @@ Este repositório está organizado em pastas, cada uma correspondendo a um curso
 - **Módulo 5** – Funções
 - **Módulo 6** – Outros recursos
 
-### 3. [Desenvolvimento Orientado a Objetos Utilizando a Linguagem Python (10h)](./Desenvolvimento Orientado a Objetos Utilizando a Linguagem Python)
+### 3. [Desenvolvimento Orientado a Objetos Utilizando a Linguagem Python (10h)](./Desenvolvimento%20Orientado%20a%20Objetos%20Utilizando%20a%20Linguagem%20Python/)
 
 - **Módulo 1** – Instalação do Ambiente de Desenvolvimento
 - **Módulo 2** – Introdução à Orientação a Objetos
 - **Módulo 3** – Encapsulamento de Dados
 - **Módulo 4** – Strings
 
-### 4. [Criando um Projeto com Interface Gráfica Utilizando a Linguagem Python (10h)](./Criando um Projeto com Interface Gráfica Utilizando a Linguagem Python)
+### 4. [Criando um Projeto com Interface Gráfica Utilizando a Linguagem Python (10h)](./Criando%20um%20Projeto%20com%20Interface%20Gráfica%20Utilizando%20a%20Linguagem%20Python/)
 
 - **Módulo 1** – O Mundo das Aplicações
 - **Módulo 2** – Orientação a objetos e sua importância na construção das aplicações
 - **Módulo 3** – Kivy
 
-### 5. [Desenvolvendo um Projeto Completo Python com Estruturas de Dados (10h)](./Desenvolvendo um Projeto Completo Python com Estruturas de Dados)
+### 5. [Desenvolvendo um Projeto Completo Python com Estruturas de Dados (10h)](./Desenvolvendo%20um%20Projeto%20Completo%20Python%20com%20Estruturas%20de%20Dados/)
 
 - **Módulo 1** – Ambientes de Desenvolvimento
 - **Módulo 2** – Estrutura de Dados
