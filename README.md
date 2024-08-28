@@ -18,7 +18,7 @@ Este repositório está organizado em pastas, cada uma correspondendo a um curso
 - **Módulo 2** – Os quatro pilares da programação orientada a objetos
 - **Módulo 3** – Linguagens orientadas a objeto
 
-### 2. [Linguagem de Programação Python – Básico (18h)](./Linguagem%20de%20Programação%20Python%20–%20Básico/)
+### 2. [Linguagem de Programação Python – Básico (18h)](./Linguagem%20de%20Programa%C3%A7%C3%A3o%20Python%20-%20B%C3%A1sico/)
 
 - **Módulo 1** – Introdução à Lógica de Programação
 - **Módulo 2** – Introdução à Linguagem de Programação Python
